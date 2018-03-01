@@ -1,0 +1,9 @@
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/bin/iPhoneSimulator/Debug/HW2_UITableview.exe
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/bin/iPhoneSimulator/Debug/HW2_UITableview.pdb
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/HW2_UITableview.csproj.CoreCompileInputs.cache
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/HW2_UITableview.exe
+/Users/jameskrauser/0_sourceTree/HW2_UITableview/HW2_UITableview/obj/iPhoneSimulator/Debug/HW2_UITableview.pdb

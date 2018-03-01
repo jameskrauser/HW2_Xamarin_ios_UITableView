@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BADD1D0C-0FBF-42F8-BB8E-975950BCCE74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW2_UITableview/Main.storyboard">
+    <Files>
+      <File FileName="HW2_UITableview/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HW2_UITableview/Main.storyboard" />
+      <File FileName="HW2_UITableview/ViewController.cs" Line="24" Column="49" />
+      <File FileName="HW2_UITableview/NamesTableViews.cs" Line="44" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HW2__UITableview PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.71580F05-9AA2-4C60-8CE9-9B7A4026E865">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HW2__UITableview>
+</Properties>
